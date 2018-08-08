@@ -1,0 +1,3 @@
+O intuito desse arquivo não é fazer um tutorial, é simplesmente descrever o processo de criação do blog para, quem sabe um dia, ajudar uma outra pessoa que também esteja planejando começar um projeto pessoal e não saiba por onde.
+
+1. Primeiramente, para iniciar um blog, preciso ter ideia dos textos que irei colocar nele (idealizei colocar somente o texto de apresentação). Sendo assim, criei o texto que está disposto no arquivo texto.txt;
