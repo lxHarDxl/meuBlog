@@ -1,3 +1,31 @@
-O intuito desse arquivo não é fazer um tutorial, é simplesmente descrever o processo de criação do blog para, quem sabe um dia, ajudar uma outra pessoa que também esteja planejando começar um projeto pessoal e não saiba por onde.
+O intuito desse arquivo não é fazer um tutorial, é simplesmente descrever o processo de criação do blog para ajudar com a parte de organização e, quem sabe um dia, ajudar uma outra pessoa que também esteja planejando começar um projeto pessoal e não saiba por onde.
 
-1. Primeiramente, para iniciar um blog, preciso ter ideia dos textos que irei colocar nele (idealizei colocar somente o texto de apresentação). Sendo assim, criei o texto que está disposto no arquivo texto.txt;
+1. Primeiramente, para iniciar um blog, preciso ter ideia dos textos que irei colocar nele (no começo será somente o texto de apresentação). Sendo assim, criei o texto que está disposto no arquivo texto.txt;
+
+2. Ideias sobre os padrões do CSS:
+2.1 - Corpo da página -
+background-color: black;
+
+2.2 - Barra de navegação -
+Background-color: #00FE71 rgb(0,254,113); gradient: #004F23 rgb(0,79,35);
+color (cor das letras): black;
+font-family: 'Audiowide', cursive;
+<link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet"> 
+
+2.3 - Títulos (principais e secundarios) e subtitulos - 
+font-family: 'Audiowide', cursive;
+<link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet"> 
+
+2.4 - Principal e subtitulo -
+color: #F7EFEC rgb(247,239,236);
+
+2.4.1 - Principal -
+text-transform: uppercase;
+
+2.5 - Parágrafos de conteúdo -
+A ideia aqui é deixar os textos referente ao conteúdo dentro de uma div com borda arredondada, tendo radius por volta de 20px.
+Essa div teria o background-color branco(ou o mais próximo disso) e tem que ser centralizada na tela.
+2.5.1 - Parágrafos -
+font-size: 20px;
+color: black;
+line-heigh: 1.4;
