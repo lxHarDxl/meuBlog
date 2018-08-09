@@ -1,14 +1,19 @@
 body {
-	background-color: rgb(220,220,220);
+	background-color: rgb(10,10,10);
 }
 main {
 	width: 100%;
+}
+.barraNavegacao {
+	background-color: rgb(0,254,113);
+	color: #000;
 }
 .tituloPrincipal {
 	text-transform: uppercase;
 	font-size: 50px;
 	margin-bottom: auto;
 	line-height: 1;
+	color: #F7EFEC;
 }
 .subTexto {
 	font-size: 12px;
@@ -16,11 +21,15 @@ main {
 .subtitulo {
 	font-size: 35px;
 }
+.barraNavegacao a, .tituloPrincipal, .subTexto, .subtitulo {
+	font-family: 'Audiowide', cursive;
+}
 .conteudo {
 	width: 1000px;
 	margin: 0 auto;
 	padding: 30px;
 	background-color: rgba(90,255,175,1);
+	border-color: #00FE71;
 	border-radius: 30px;
 }
 .cabecalho {
@@ -28,4 +37,6 @@ main {
 }
 .conteudo-paragrafos {
 	line-height: 1.4;
+	font-size: 20px;
+	color: black;
 }
