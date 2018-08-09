@@ -1,0 +1,31 @@
+body {
+	background-color: rgb(220,220,220);
+}
+main {
+	width: 100%;
+}
+.tituloPrincipal {
+	text-transform: uppercase;
+	font-size: 50px;
+	margin-bottom: auto;
+	line-height: 1;
+}
+.subTexto {
+	font-size: 12px;
+}
+.subtitulo {
+	font-size: 35px;
+}
+.conteudo {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 30px;
+	background-color: rgba(90,255,175,1);
+	border-radius: 30px;
+}
+.cabecalho {
+	text-align: center;
+}
+.conteudo-paragrafos {
+	line-height: 1.4;
+}
